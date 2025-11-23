@@ -37,9 +37,9 @@ O pacote de **ETL (SQL Server Integration Services - SSIS)** é responsável por
 ---
 
 ## 🚀 Como usar
-1.  Abrir o projeto no **Visual Studio**
-2.  Configurar a conexão com o **SQL Server**
-3.  Executar o **pacote ETL** (`CargaEcommerce.dtsx`) para carregar os dados.
+1.  Abrir o **Visual Studio**
+2.  Selecionar a opção: "Abrir um projeto ou uma solução"
+3.  Navegue até a pasta do projeto Carga Ecommerce/Carga Tabelas Ecommerce e selecione o arquivo (`Carga Tabelas Ecommerce.dtproj`)
 
 ---
 
@@ -52,6 +52,7 @@ Para rodar este projeto corretamente, é recomendado utilizar as seguintes vers�
 * 📊 **Power Architect** – versão **latest**
 
 > ⚠️ Certifique-se de que as versões instaladas são compatíveis entre si para evitar problemas de execução do ETL ou incompatibilidades no banco de dados.
+
 
 
 
